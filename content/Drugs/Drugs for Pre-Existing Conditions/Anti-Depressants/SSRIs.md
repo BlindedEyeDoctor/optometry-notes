@@ -1,0 +1,26 @@
+---
+tags:
+  - SSRIs
+  - Drugs
+  - DrugsForPreExistingConditions
+aliases:
+  - Selective Serotonin Reuptake Inhibitors
+---
+- Mechanism of Action
+	- Inhibit the re-uptake pump on the presynaptic terminal of adrenergic nerves
+	- Synaptic levels of serotonin increase
+	- Mild [[Anticholinergic|anticholinergic]] effects (paroxetine has the highest affinity for the M1 receptor)
+	- Delayed onset of therapeutic action
+		- Initial responses within 7-10 days
+		- Maximal effect within 2-4 weeks
+	- Do not stop taking suddenly (taper dose over at least 4 weeks)
+- Names
+	- Citalopram
+	- ==Escitalopram==
+	- ==Fluoxetine==
+		- Long half-life (4 – 6 days) compared to the other SSRIs (~1 day). It also has active metabolites.
+	- Fluvoxamine
+	- Paroxetine
+	- ==Setraline==
+- Adverse Effects
+	- 
