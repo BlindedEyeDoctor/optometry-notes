@@ -19,9 +19,9 @@ Used in the management of:
 - **Osmoprotectants** — protect epithelial cells from hyperosmolar stress
 # Components
 ---
-![[Aqueous Components]]
+![[Overview - Aqueous Components]]
 
-![[Lipid Components]]
+![[Overview - Lipid Components]]
 
 [[UNKNOWN COMPONENTS]]:
 - Perfluorohexyl octane:

@@ -9,8 +9,8 @@ tags:
 Here lies all the retinal diseases. 
 # Types
 ---
-- [[Retinal Detachment]]
-- [[Retinal Occlusions]]
+- [[Overview - Retinal Detachment]]
+- [[Overview - Retinal Occlusions]]
 - [[Diabetic Retinopathy]]
-- [[Macula Degeneration]]
+- [[Overview - Macula Degeneration]]
 - 

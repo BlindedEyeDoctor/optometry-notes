@@ -12,14 +12,21 @@ To lay out my thought process and neural connections in a neat organized way to 
 --- 
 This website has been organized in two ways. Diagnosis flowchart:
 
-[[Presenting Symptoms|Patient Presentation Pathway]]
+[[Overview - Presenting Symptoms|Patient Presentation Pathway]]
 
-[[Clinical Signs|Clinical Signs Pathway]]
+[[Overview - Clinical Signs|Clinical Signs Pathway]]
 
 Learning Flowchart
-[[Ocular Diseases]]
-[[Risk Factors]]
+[[Overview - Ocular Diseases]]
+[[Overview - Risk Factors]]
 
+# Ubdates
+---
+## Version
+1.0 - Initial Git Publish
+1.1 - Updated Titles to better format the website, included table of contents
+## Known Issues
+N/A
 
 # Table of Contents
 ---

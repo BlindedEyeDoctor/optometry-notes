@@ -31,8 +31,8 @@ There are many ways to administer a drug. From MMED3934 - Principles of Pharmaco
 - Gels/Patches
 # Catagories
 ---
-![[Drugs for Pre-Existing Conditions]]
+![[Overview - Systemic Drugs]]
 
-![[Ocular Drugs]]
+![[Overview - Ocular Drugs]]
 
 # Drug Resources

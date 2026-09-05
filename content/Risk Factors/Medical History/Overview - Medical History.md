@@ -6,6 +6,6 @@
 [[Allergies]]
 [[Inflammation]]
 
-![[Systemic Conditions]]
+![[Overview - Systemic Conditions]]
 
 ![[Autoimmunity]]

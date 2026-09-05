@@ -6,7 +6,7 @@ A list of drugs you might administer/prescribe to inform or as a response to a d
 ---
 ## Treatments
 - Dry Eye
-	- [[Ocular Lubricants]]
+	- [[Overview - Ocular Lubricants]]
 - Pupil Dilation
 	- [[Mydriatics]]
 - Pupil Constriction
@@ -18,7 +18,7 @@ A list of drugs you might administer/prescribe to inform or as a response to a d
 - Inflammation
 	- [[Anti-Inflammatories]]
 - Allergies
-	- [[Anti-Allergic]]
+	- [[Ocular Anti-Allergic]]
 - Glaucoma
 	- [[Glaucoma Meds]]
 - Contact Lens Solutions

@@ -6,17 +6,17 @@ tags:
 ---
 A list of drugs your patient may already be on when they present to clinic. Patients 
 - High Blood Pressure:
-	- [[Anti-Hypertensives]]
+	- [[Overview - Anti-Hypertensives]]
 - High Blood Cholesterol: 
-	- [[Lipid-Lowering Agents]]
+	- [[Overview - Dislipidemia]]
 - Hyperglycemia
-	- [[Diabetic Drugs]]
+	- [[Overview - Diabetic Drugs]]
 - Neuropathic Pain 
-	- [[Anti-Neuropathic]]
+	- [[Overview - Anti-Neuropathic]]
 - Depression
-	- [[Anti-Depressants]]
+	- [[Overview - Anti-Depressants]]
 - Anxiety
-	- [[Anxiolytic]]
+	- [[Overview - Anxiolytic (Anxiety)]]
 - Acute Pain (Nociceptive)
 	- [[Anaesthetics]]
 	- [[Analgesics]]

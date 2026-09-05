@@ -6,4 +6,4 @@ tags:
 ---
 
 - [[Episcleritis]]
-- [[Scleritis]]
+- [[Overview - Scleritis]]

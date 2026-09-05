@@ -15,5 +15,5 @@ tags:
 [[Transient Vision Loss]]
 [[Glare]]
 [[New Floaters]]
-[[Flashes]]
+[[Overview - Flashes]]
 [[Eye Movement]]

@@ -7,17 +7,17 @@ tags:
 A comprehensive list of the types of tests an optometrist can perform. It includes 
 # Types of tests
 ---
-![[Preliminary Assessments]]
+![[Overview - Preliminary Assessments]]
 
 - [[Refraction]]
-- [[Comprehensive Examination]]
+- [[Overview - Comprehensive Examination]]
 	- [[Dry Eye Testing]]
 	- [[Biomicroscopy]]
 	- [[Fundoscopy]]
 	- [[Blood Work]]
 	- [[Tonometry]]
 	- [[Gornioscopy]]
-- [[Ocular Imaging]]
+- [[Overview - Ocular Imaging]]
 	- Standard Fundus Photography
 	- OPTOS / Ultra-Wieldfield Imaging
 	- Fluroscein Angiography
