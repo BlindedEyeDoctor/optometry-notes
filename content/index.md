@@ -4,30 +4,36 @@ aliases:
 ---
 # Description
 ---
-This is a website to share my brain with you. 
-# Intention
----
-To lay out my thought process and neural connections in a neat organized way to follow along. 
-# Organization
+Hi there! I am the Blind Optometrist. I made this website to help organize my scattered thoughts and lay out my thought process as I continue to delve deeper into more complex topics. Here you can learn about the different parts of the eye and surrounding anatomy; patient presentation and clinical signs; types of tests; drugs; risk factors; management options
+
+This project came to be on the 31st of June 2026, and was published online via Github on the 3th of September 2026. 
+# What would you like to learn about?
 --- 
-This website has been organized in two ways. Diagnosis flowchart:
+[[Overview - Parts of the Eye|Anatomy of the Eye]]
 
-[[Overview - Presenting Symptoms|Patient Presentation Pathway]]
+[[Overview - Ocular Diseases|Diseases of the Eye]]
 
-[[Overview - Clinical Signs|Clinical Signs Pathway]]
+[[Overview - Presenting Symptoms|Patient Presentation]]
 
-Learning Flowchart
-[[Overview - Ocular Diseases]]
-[[Overview - Risk Factors]]
+[[Overview - Tests|Clinical Tests]]
 
-# Ubdates
+[[Overview - Clinical Signs|Clinical Signs ]]
+
+[[Overview - Drugs|Patient Medication]]
+
+Click on any of the above hyperlinks to begin! Hover your mouse over the link if you would like to see what's in store!
+# Credits
+---
+This project was made possible using:
+- GitHub
+- GitHub Publish
+- Tag Wrangler
+- Obsidian
+# Updates
 ---
 ## Version
-1.0 - Initial Git Publish
-1.1 - Updated Titles to better format the website, included table of contents
+1.0 (3/9/2026) - Initial Git Push, Published Website
+1.1 (5/9/2026) - Updated note titles to better format the website
+1.2 (6/9/2026) - Made the website more user friendly. Added hyperlink navigator, and continued to flesh out information in [Parts of the Eye](obsidian://open?vault=Diseases%20and%20Associated%20Symptoms&file=Optometry%20Notes%2FParts%20of%20the%20Eye%2FOverview%20-%20Parts%20of%20the%20Eye).
 ## Known Issues
-N/A
-
-# Table of Contents
----
-![[Contents.base]]
+None Found

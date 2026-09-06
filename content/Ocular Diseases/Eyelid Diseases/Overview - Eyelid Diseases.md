@@ -8,8 +8,7 @@ tags:
 # Description
 ---
 ...
-# Types
----
+#PresentingSymptoms #OcularDiseases #EyelidDiseases #Eyelid 
 ## Relevent
 [[Blepharitis]]
 [[Meibomian Gland Dysfunction]]
@@ -21,7 +20,8 @@ tags:
 [[Cyst of Zeiss]]
 [[Freckle]]
 [[Neavi]]
-
+# Types
+---
 # Infectious
 [[Blepharitis]]
 [[Meibomian Gland Dysfunction]]

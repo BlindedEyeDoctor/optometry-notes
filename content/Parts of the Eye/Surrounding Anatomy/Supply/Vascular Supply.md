@@ -1,13 +1,13 @@
----
-tags:
-  - Blood
-  - Arteries
-  - SurroundingAnatomy
-  - PartsOfTheEye
----
 # Description
 ---
-Supplies nutrients to the eye
+Arteries supply bodily tissues with nourishment. 
+
+Size nomenclature is as follows:
+- Arteries (Traditional Blood Vessels)
+- Capilaries (Small Blood Vessels)
+
+
+#PartsOfTheEye #SurroundingAnatomy #Blood #Arteries 
 # Pathway
 ---
 1. **Heart**
