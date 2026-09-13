@@ -1,0 +1,25 @@
+---
+tags:
+  - PharmacologicalMangement
+  - DrugsForPreExistingConditions
+---
+---
+A list of drugs your patient may already be on when they present to clinic. Patients 
+- High Blood Pressure:
+	- [[Overview - Anti-Hypertensives]]
+- High Blood Cholesterol: 
+	- [[Overview - Dislipidemia]]
+- Hyperglycemia
+	- [[Overview - Diabetic Drugs]]
+- Neuropathic Pain 
+	- [[Overview - Anti-Neuropathic]]
+- Depression
+	- [[Overview - Anti-Depressants]]
+- Anxiety
+	- [[Overview - Anxiolytic (Anxiety)]]
+- Acute Pain (Nociceptive)
+	- [[Anaesthetics]]
+	- [[Analgesics]]
+	- [[Adjuvants]]
+- Respiratory Diseases
+	- [[Asthma and COPD Medication]]

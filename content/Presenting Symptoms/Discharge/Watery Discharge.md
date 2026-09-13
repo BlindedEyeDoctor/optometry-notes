@@ -1,11 +1,7 @@
----
-tags:
-  - PresentingSymptoms
-  - Discharge
----
-# Description
+# Watery Discharge
 ---
 Clear, thin, watery discharge caused by **Excess Tear Production** or **Tear Film Instability**. Common in **Viral Infections, Allergy, Irritation, Dry Eye**, or early inflammatory responses. Unlike mucous or purulent discharge, watery discharge does **Not** contain significant cellular debris.
+#PresentingSymptoms #Discharge 
 # Associated Symptoms
 ---
 - Tearing / watering

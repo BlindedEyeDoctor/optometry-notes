@@ -3,11 +3,8 @@
 
 # Type
 ---
-[[Contact Lens Wear]]
-[[Pregnancy]]
-[[Stress]]
-[[Alcohol Use]]
-[[Nutrition]]
-[[Steroid Use]]
-[[Radiation Exposure]]
-- [[UV Exposure]]
+
+[[UV Exposure]]
+[[Vegetation, Organic Matter Exposure]]
+[[Dry, Windy Environments]]
+[[Occupational Hazards]]

@@ -1,11 +1,7 @@
----
-tags:
-  - Discharge
-  - PresentingSymptoms
----
-# Description
+# Purulent Discharge
 ---
 Thick **Yellow or Green**, pus‑like discharge. Neutrophil‑rich exudate from a **Bacterial Infection**.
+#PresentingSymptoms #Discharge 
 # Presentation
 ---
 PX reports crusting or more sleep in eyes

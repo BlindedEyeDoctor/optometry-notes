@@ -3,8 +3,10 @@ tags:
   - PresentingSymptoms
   - DiscomfortTypes
 ---
-# Description
+# Itching
+---
 Itching = **allergy** until proven otherwise.
+#PresentingSymptoms #DiscomfortTypes
 # Diagnostic Testing 
 - Presentation
 	- PX reports itchiness in eye

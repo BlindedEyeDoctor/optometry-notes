@@ -42,4 +42,4 @@ Primary stimulus for insulin release is in an increase in blood glucose levels.
 [Pathophys - Hyperglycemia]
 # Related Ocular Diseases
 ---
-![[Diabetic Retinopathy]]
+[Diabetic Retinopathy]

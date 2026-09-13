@@ -1,11 +1,7 @@
----
-tags:
-  - PresentingSymptoms
-  - Discharge
----
-# Description
+# Mucoid Discharge
 ---
 **Stringy, white, rope‑like**, or gelatinous discharge. Mucin‑rich discharge from **allergy or chronic irritation**.
+#PresentingSymptoms #Discharge 
 # Associated Symptoms
 - Itching
 - Grittiness

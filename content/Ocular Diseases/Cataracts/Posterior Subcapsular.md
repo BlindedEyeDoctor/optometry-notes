@@ -18,7 +18,7 @@ A cataract located at the **Posterior Pole of the Lens**, just in front of the p
 - Increased Refractive Index
 # Linked Symptoms
 ---
-- [[Glare|Glare Sensitivity]]
+- [Glare Sensitivity](obsidian://open?vault=Diseases%20and%20Associated%20Symptoms&file=Optometry%20Notes%2FPresenting%20Symptoms%2FVision%20Changes%2FGlare)
 	- Due to light scatter with oncoming headlights or sunlight
 - **Reduced near vision** out of proportion to distance vision
 - **Difficulty reading in bright environments**

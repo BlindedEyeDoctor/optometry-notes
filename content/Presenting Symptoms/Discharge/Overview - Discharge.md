@@ -1,10 +1,6 @@
----
-tags:
-  - Discharge
-  - PresentingSymptoms
----
-# Description
+# Discharge
 The byproduct of your immune system battling against pathogens. 
+#PresentingSymptoms #Discharge 
 # Types
 ---
 1. [[Watery Discharge]]

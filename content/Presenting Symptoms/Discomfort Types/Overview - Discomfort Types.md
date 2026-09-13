@@ -1,9 +1,9 @@
+# Discomfort Types
 ---
-tags:
-  - DiscomfortTypes
-  - PresentingSymptoms
+...
+#PresentingSymptoms #DiscomfortTypes 
+# Types
 ---
-
 [[Itching]]
 [[Grittiness or Dryness]]
 [[Burning]]

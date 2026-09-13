@@ -3,5 +3,9 @@
 
 # Type
 ---
+
+[[Age]]
+[[Sex]]
 [[Ethnicity]]
-[[Age|Being Old]]
+[[Genetics]]
+[[Pregnancy]]

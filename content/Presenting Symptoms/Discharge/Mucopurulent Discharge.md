@@ -1,11 +1,9 @@
+# Mucopurulent Discharge
 ---
-tags:
-  - Discharge
-  - PresentingSymptoms
----
-# Description 
 **Mixed mucus + pus** → thick, yellow‑white discharge. Combination of **bacterial infection + mucous irritation**.
+#PresentingSymptoms #Discharge 
 # Associated Symptoms
+---
 - Redness
 - Crusting
 - Lids stuck shut
@@ -13,6 +11,7 @@ tags:
 - Preauricular node (viral)
 - Tender medial canthus (dacryocystitis)
 # Diagnostic Testing 
+---
 - Presentation
 	- PX reports crusting or more sleep in eyes
 	- PX reports eyes glued together

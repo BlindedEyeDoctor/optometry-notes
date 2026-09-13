@@ -7,5 +7,5 @@ tags:
 [[Diabetes]]
 [[Hypertension]]
 [[Hyperlipidemia]]
-[[Athsma/COPD]]
- [[Immunocompromised]]
+[[Atopy/Athsma/COPD/Eczema]]
+[[Immunocompromisation]]
