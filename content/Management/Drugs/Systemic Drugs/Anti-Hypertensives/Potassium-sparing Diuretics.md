@@ -1,2 +1,0 @@
-- Collecting Ducts
-	- [[Mannitol]]

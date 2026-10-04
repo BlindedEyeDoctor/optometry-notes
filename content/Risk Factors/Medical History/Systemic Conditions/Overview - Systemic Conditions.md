@@ -1,11 +1,11 @@
 ---
 tags:
-  - SystemicConditions
+  - Systemic_Condition
   - RiskFactors
 ---
 
 [[Diabetes]]
 [[Hypertension]]
-[[Hyperlipidemia]]
+[[Dislipidemia]]
 [[Atopy/Athsma/COPD/Eczema]]
 [[Immunocompromisation]]

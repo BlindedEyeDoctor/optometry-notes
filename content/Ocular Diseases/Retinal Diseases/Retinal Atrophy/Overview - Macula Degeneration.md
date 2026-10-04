@@ -2,7 +2,7 @@
 tags:
   - Retina
   - Macula
-  - OcularDiseases
+  - Ocular_Disease
 ---
 # Description
 ---

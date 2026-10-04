@@ -4,7 +4,7 @@
 ....
 # Tags
 ---
-#OcularDiseases #OcularDiseases #TearFilm #Cornea #Conjuntiva 
+#Ocular_Disease #Ocular_Disease #TearFilm #Cornea #Conjuntiva 
 # Types
 ---
 - [[Aqueous Deficient Dry Eye]]

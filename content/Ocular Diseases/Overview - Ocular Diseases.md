@@ -1,11 +1,10 @@
----
-tags:
-  - OcularDiseases
----
 # Description
 ---
-
+...
+# Organisation
+---
 I have classified each 
+#Ocular_Disease
 # Types
 ---
 Can be fixed with a refraction

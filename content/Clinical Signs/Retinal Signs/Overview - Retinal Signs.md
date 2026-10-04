@@ -16,7 +16,6 @@ A list of the clinical signs to look for when at the retina.
 
 # Type
 ---
-### Retinal Vascular Signs
 ![[Overview - Retinal Vascular Signs]]
 ### Retinal Degenerations / Atrophy
 - [[Cotton Wool Spot]]

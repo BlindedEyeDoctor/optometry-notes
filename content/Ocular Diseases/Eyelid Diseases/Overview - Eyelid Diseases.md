@@ -2,13 +2,13 @@
 tags:
   - PresentingSymptoms
   - Eyelid
-  - OcularDiseases
+  - Ocular_Disease
   - EyelidDiseases
 ---
 # Description
 ---
 ...
-#PresentingSymptoms #OcularDiseases #EyelidDiseases #Eyelid 
+#PresentingSymptoms #Ocular_Disease #EyelidDiseases #Eyelid 
 ## Relevent
 [[Blepharitis]]
 [[Meibomian Gland Dysfunction]]

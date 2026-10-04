@@ -1,7 +1,7 @@
 ---
 tags:
   - RiskFactors
-  - SystemicConditions
+  - Systemic_Condition
   - Diabetes
 ---
 # Description
@@ -40,6 +40,6 @@ Primary stimulus for insulin release is in an increase in blood glucose levels.
 # Pathophysiology
 ---
 [Pathophys - Hyperglycemia]
-# Related Ocular Diseases
+# Related Ocular Context
 ---
 [Diabetic Retinopathy]

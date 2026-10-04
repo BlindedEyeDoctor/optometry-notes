@@ -1,8 +1,8 @@
 # Conservative Management
 ---
-...
-#Management #ConservativeManagement
-# Options
+Some health conditions can be managed/treated without the use of drugs. Doctors may recommend or patients may opt in for [[Overview - Conservative Management|conservative management]] options which poses less health risk and better aligns with their goals.
+#Management #Conservative_Management
+# Categories
 ---
 [[Behavioral Lifestyle Modifications]]
 - Reduce Screen Time
@@ -41,5 +41,7 @@
 - Blood Glucose Control
 - Blood Pressure Management
 - Diet and Exercise
+	- Vitamins and Minerals
+	- [[Vitamins and Minerals]]
 
 [[Observation]]

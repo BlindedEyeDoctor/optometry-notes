@@ -3,5 +3,5 @@ aliases:
   - Myopic Shift
 tags:
   - RefractiveDiseases
-  - OcularDiseases
+  - Ocular_Disease
 ---

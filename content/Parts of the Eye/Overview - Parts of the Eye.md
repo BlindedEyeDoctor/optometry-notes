@@ -3,7 +3,7 @@
 This note branches out to all components that make up the eye and any supporting structures that help the eye keep doing what it does best.
 #PartsOfTheEye 
 
-<<< [[Overview - Structures of the Eye|Next - Structures]] | [[index|Main Menu]] | [[Overview - Surrounding Anatomy| Next - Anatomy]]>>>
+<<< [[Overview - Structures of the Eye|Next - Structures]] | [[index|Home Page]] | [[Overview - Surrounding Anatomy| Next - Anatomy]]>>>
 # Contents
 ---
 Listed from recommended direction of learning:

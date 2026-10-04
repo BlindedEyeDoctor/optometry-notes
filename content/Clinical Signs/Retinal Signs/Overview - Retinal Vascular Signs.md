@@ -7,7 +7,7 @@ tags:
   - RetinalVascularSigns
   - RetinalSigns
 ---
-# Description
+# Retinal Vascular Signs
 ---
 ...
 # List

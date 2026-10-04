@@ -1,2 +1,0 @@
-- Thick Ascending LoH
-	- [[Furosemide]], [[Bumetanide]]

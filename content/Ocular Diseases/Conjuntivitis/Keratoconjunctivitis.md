@@ -1,7 +1,7 @@
 ---
 tags:
   - Conjuntivitis
-  - OcularDiseases
+  - Ocular_Disease
   - Conjuntiva
   - Cornea
 ---

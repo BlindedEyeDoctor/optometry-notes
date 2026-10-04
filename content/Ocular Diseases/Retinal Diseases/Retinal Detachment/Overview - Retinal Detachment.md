@@ -1,7 +1,7 @@
 ---
 tags:
   - Retina
-  - OcularDiseases
+  - Ocular_Disease
   - RetinalDetachment
 ---
 # Description

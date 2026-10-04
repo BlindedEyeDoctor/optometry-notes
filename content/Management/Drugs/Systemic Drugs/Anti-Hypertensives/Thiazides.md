@@ -1,2 +1,0 @@
-- Proximal end of the DCT
-	- [[Hydrochlorothiazide]], [[Indapamide]], [[Chlortalidone]]

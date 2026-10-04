@@ -1,16 +1,26 @@
 ---
 tags:
   - Retina
-  - OcularDiseases
+  - Ocular_Disease
   - RetinalDiseases
 ---
-# Description
+# Retinal Diseases
 ---
 Here lies all the retinal diseases. 
-# Types
+#Ocular_Disease #RetinalDiseases #Retina 
+
+# Your retina under different systemic diseases
+---
+Diabetes
+[[Overview - Diabetic Retinopathy]]
+
+Hypertension
+ [[Overview - Hypertensive Retinopathy]]
+
+
+# Conditions
 ---
 - [[Overview - Retinal Detachment]]
-- [[Overview - Retinal Occlusions]]
-- [[Diabetic Retinopathy]]
+
 - [[Overview - Macula Degeneration]]
-- 
+-
