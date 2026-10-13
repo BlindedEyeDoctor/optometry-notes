@@ -1,6 +1,6 @@
 ---
 tags:
-  - ComprehensiveExamination
+  - Comprehensive_Examination
   - Statistics
   - Tests
 ---

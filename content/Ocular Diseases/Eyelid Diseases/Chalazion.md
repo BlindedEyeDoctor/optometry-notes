@@ -3,7 +3,7 @@ tags:
   - Eyelid
   - EyelidLesions
   - Lesions
-  - PresentingSymptoms
+  - Presenting_Symptoms
 ---
 # Cause:
 - Granulomatous inflammatory lesion caused by retained sebaceous secretion

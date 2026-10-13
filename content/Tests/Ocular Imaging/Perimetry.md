@@ -2,7 +2,7 @@
 ---
 ...
 Also known as Visual Fields
-#Tests #Imaging #ComprehensiveExamination 
+#Tests #Ocular_Imaging #Comprehensive_Examination 
 # Types
 ---
 Pachymetry is split into two subtypes

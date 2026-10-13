@@ -1,7 +1,4 @@
-# Description
----
-
-# Type
+# Personal Demographic Factors
 ---
 
 [[Age]]

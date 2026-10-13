@@ -1,7 +1,7 @@
 # Tear Film
 ---
 The most anterior layer of the eye, sits ontop of the [[Cornea]] and [[Conjunctiva]]. Nurishes [[Cornea|Corneal Epithelium]]
-#PartsOfTheEye #StructuresOfTheEye #TearFilm
+#Parts_of_the_Eye #StructuresOfTheEye #TearFilm
 # Layers
 ---
 Consists of three layers, in order of anterior to posterior:

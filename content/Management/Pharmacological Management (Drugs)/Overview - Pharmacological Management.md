@@ -2,7 +2,10 @@
 --- 
 Drugs are substances that causes a change in an organism's physiology. In healthcare we use drugs to prevent or to treat disease. 
 #Management #Pharmacological_Mangement
-<<< [[Overview - Management|Go Back]] | [[Overview - Management|Main Menu]] | [Anti-Hypertensives](obsidian://open?vault=Diseases%20and%20Associated%20Symptoms&file=Optometry%20Notes%2FManagement%2FPharmacological%20Management%20(Drugs)%2FSystemic%20Drugs%2FAnti-Hypertensives%2FOverview%20-%20Anti-Hypertensives) >>>
+
+# Navigation
+---
+<<< [[Overview - Management|Go Back]] | [[Overview - Management|Main Menu]] | [[Overview - Anti-Hypertensives|Next]]>>>
 # Organization
 ---
 As [[Overview - Pharmacological Management|pharmacological management]] will primarily be focused on drugs, notation will be organized as follows:

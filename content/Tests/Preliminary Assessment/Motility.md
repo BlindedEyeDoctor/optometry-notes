@@ -1,5 +1,5 @@
 ---
 tags:
-  - PreliminaryAssessment
+  - Preliminary_Assessment
   - Tests
 ---

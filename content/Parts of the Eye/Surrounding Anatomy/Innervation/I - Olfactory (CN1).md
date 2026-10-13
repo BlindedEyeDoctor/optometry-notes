@@ -2,8 +2,8 @@
 tags:
   - CranialNerves
   - CN1
-  - SurroundingAnatomy
-  - PartsOfTheEye
+  - Surrounding_Anatomy
+  - Parts_of_the_Eye
 ---
 # Description
 ---

@@ -1,7 +1,7 @@
 ---
 tags:
   - Tests
-  - ComprehensiveExamination
+  - Comprehensive_Examination
   - Tonometry
-  - SlitLamp
+  - Slit_Lamp
 ---

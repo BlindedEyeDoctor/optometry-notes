@@ -1,6 +1,6 @@
 ---
 tags:
-  - PresentingSymptoms
+  - Presenting_Symptoms
   - Conjuntiva
   - Ocular_Disease
   - ConjunctivalDiseases

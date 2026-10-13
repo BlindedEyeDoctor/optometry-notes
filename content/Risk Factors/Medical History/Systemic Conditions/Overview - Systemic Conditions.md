@@ -1,8 +1,7 @@
+# Systemic Conditions
 ---
-tags:
-  - Systemic_Condition
-  - RiskFactors
----
+#Risk_Factors = #Medical_History 
+#Systemic_Condition 
 
 [[Diabetes]]
 [[Hypertension]]

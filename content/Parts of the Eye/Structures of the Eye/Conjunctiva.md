@@ -1,7 +1,7 @@
 # Conjunctiva
 ---
 ....
-#PartsOfTheEye #StructuresOfTheEye #Conjuntiva 
+#Parts_of_the_Eye #StructuresOfTheEye #Conjuntiva 
 # Layers and Locations
 ---
 Two distinct layers

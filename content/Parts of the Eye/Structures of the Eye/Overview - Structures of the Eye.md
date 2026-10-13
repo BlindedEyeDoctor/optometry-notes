@@ -1,8 +1,12 @@
-# Description
----
-These are the components that make up the eye.
-#PartsOfTheEye #StructuresOfTheEye 
 # Structures of the Eye
+---
+These are the structures that are essential to the function of the eye.
+#Parts_of_the_Eye = #StructuresOfTheEye 
+
+| [[index|Main Menu]] |
+| [[Overview - Parts of the Eye|Go Back? -> Parts of the Eye]] |
+| [[Eyelid|Next Layer? -> Eyelid]] |
+# Contents - Structures of the Eye
 ---
 Listed from most Anterior to Posterior, and categorized into anterior and posterior structures:
 ## Anterior Structures of the Eye
@@ -23,4 +27,3 @@ Listed from most Anterior to Posterior, and categorized into anterior and poster
 - [[Optic Radiation]]
 - [[Occipital Lobe]]
 
-<<< [[Overview - Parts of the Eye|Go Back]] | [[index|Main Menu]] | [[Eyelid|Next Layer]] >>> 

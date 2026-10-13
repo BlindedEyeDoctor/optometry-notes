@@ -5,7 +5,7 @@ tags:
   - Lesions
   - EyelidLesions
   - Eyelid
-  - PresentingSymptoms
+  - Presenting_Symptoms
 ---
 # Cause:
 - Bacterial infection within eyelid gland (Zeis, Moll or meibomian)

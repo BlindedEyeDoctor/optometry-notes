@@ -1,7 +1,7 @@
 # Hypertension
 ---
 Hypertension = High blood pressure
-#RiskFactors #Systemic_Condition #Blood 
+#Risk_Factors #Systemic_Condition #Blood 
 # Method of action
 ---
 - Increased Blood Output

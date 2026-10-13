@@ -1,11 +1,15 @@
-# Description
+# Ocular Diseases
 ---
-...
-# Organisation
+#Ocular_Disease 
+
+
+| [[index|Main Menu]] |
+| [[Overview - Refractive Diseases|Next Disease? -> Refractive Diseases]] |
+# Organization - Ocular Diseases
 ---
 I have classified each 
-#Ocular_Disease
-# Types
+
+# Content - Ocular Diseases
 ---
 Can be fixed with a refraction
 - [[Overview - Refractive Diseases]]

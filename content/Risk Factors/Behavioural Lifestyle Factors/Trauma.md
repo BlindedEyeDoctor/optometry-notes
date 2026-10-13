@@ -1,5 +1,5 @@
 ---
 tags:
-  - RiskFactors
+  - Risk_Factors
 ---
 [[Vegetation]]

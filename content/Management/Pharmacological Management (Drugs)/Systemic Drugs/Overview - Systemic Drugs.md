@@ -19,3 +19,6 @@ A list of drugs your patient may already be on when they present to clinic. Pati
 	- [[Overview - Anxiolytic (Anxiety)]]
 - Respiratory Diseases
 	- [[Asthma and COPD Medication]]
+- 
+- Rheumatoid Arthritis
+	- [[Overview - Rheumatoid Arthritic Drugs]]

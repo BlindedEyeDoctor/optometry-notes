@@ -1,7 +1,7 @@
 # Description
 ---
 Made up of 11 different layers, innervated two times, it is the way you see
-#PartsOfTheEye #StructuresOfTheEye #Retina 
+#Parts_of_the_Eye #StructuresOfTheEye #Retina 
 # Layers
 --- 
 Listed from most inner (Anterior) to most outer (Posterior)

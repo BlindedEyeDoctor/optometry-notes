@@ -1,6 +1,6 @@
 # Anti-Hypertensives
 ---
-Patients who have [Hypertension](obsidian://open?vault=Diseases%20and%20Associated%20Symptoms&file=Optometry%20Notes%2FRisk%20Factors%2FMedical%20History%2FSystemic%20Conditions%2FHypertension) are prescribed medication to reduce blood pressure. 
+Patients who have [[Hypertension]] are prescribed medication to reduce blood pressure. 
 
 #Management = #Pharmacological_Mangement #Systemic_Drugs = #Anti-Hypertensives 
 
@@ -58,7 +58,6 @@ Patients who have [Hypertension](obsidian://open?vault=Diseases%20and%20Associat
 - Bisoprolol
 - Atenolol
 - Lercanidipine
-
 # Related Ocular Context
 ---
 - [Hypertensive Retinopathy](obsidian://open?vault=Diseases%20and%20Associated%20Symptoms&file=Optometry%20Notes%2FOcular%20Diseases%2FRetinal%20Diseases%2FHypertensive%20Retinopathy%2FOverview%20-%20Hypertensive%20Retinopathy)

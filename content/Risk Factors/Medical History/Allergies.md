@@ -1,7 +1,7 @@
 ---
 tags:
   - Allergies
-  - RiskFactors
+  - Risk_Factors
 ---
 # Description
 ---

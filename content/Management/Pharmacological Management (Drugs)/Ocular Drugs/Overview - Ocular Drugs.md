@@ -7,15 +7,15 @@ A list of drugs you might administer/prescribe to inform or as a response to a d
 	- [[Overview - Ocular Lubricants]]
 - [[Overview - Autonomic Ocular Drugs]]
 	- Pupil Dilation
-		- [Midriatics](obsidian://open?vault=Diseases%20and%20Associated%20Symptoms&file=Optometry%20Notes%2FManagement%2FPharmacological%20Management%20(Drugs)%2FOcular%20Drugs%2FAutonomic%20Ocular%20Drugs%2FMydriatics)
+		- [[Mydriatics]]
 	- Pupil Constriction
-		- [Miotics](obsidian://open?vault=Diseases%20and%20Associated%20Symptoms&file=Optometry%20Notes%2FManagement%2FPharmacological%20Management%20(Drugs)%2FOcular%20Drugs%2FAutonomic%20Ocular%20Drugs%2FMiotics)
+		- [[Miotics]]
 	- Accommodation Paralysis
-		- [Cycloplegics](obsidian://open?vault=Diseases%20and%20Associated%20Symptoms&file=Optometry%20Notes%2FManagement%2FPharmacological%20Management%20(Drugs)%2FOcular%20Drugs%2FAutonomic%20Ocular%20Drugs%2FCycloplegics)
+		- [[Cycloplegics]]
 - Systemic Medications
 	- Inflammation Control
 	- Anti-VEGF
-		- [[Biologics]]
+		- [[Ocular - Biologics]]
 - Inflammation
 	- [[Ocular Anti-Inflammatories]]
 - Allergies
@@ -24,8 +24,8 @@ A list of drugs you might administer/prescribe to inform or as a response to a d
 	- [[Glaucoma Medication]]
 - Pain
 	- [[Ocular Nociceptive]]
-- Anaestheics
-	- [[Ocular Anaesthetics]]
+- Anesthetics
+	- [[Ocular Anesthetics]]
 
 
 

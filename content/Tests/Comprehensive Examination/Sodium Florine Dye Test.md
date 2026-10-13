@@ -2,6 +2,6 @@
 tags:
   - Tests
   - Cornea
-  - SlitLamp
-  - ComprehensiveExamination
+  - Slit_Lamp
+  - Comprehensive_Examination
 ---

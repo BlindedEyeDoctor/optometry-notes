@@ -3,13 +3,13 @@ aliases:
   - OCT
 tags:
   - Tests
-  - Imaging
-  - ComprehensiveExamination
+  - Ocular_Imaging
+  - Comprehensive_Examination
 ---
 # Description
 ---
 .
-#Tests #Imaging  #ComprehensiveExamination 
+#Tests #Ocular_Imaging  #Comprehensive_Examination 
 # Sub Types
 ---
 - OCT (Anterior Segment)

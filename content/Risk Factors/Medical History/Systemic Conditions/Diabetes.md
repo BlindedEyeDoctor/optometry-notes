@@ -1,10 +1,10 @@
 ---
 tags:
-  - RiskFactors
+  - Risk_Factors
   - Systemic_Condition
   - Diabetes
 ---
-# Description
+# Diabetes
 ---
 Hyperglycemia is simply put a higher than average blood sugar concentration in the blood which is the harmful mechanism of Diabetes.
 # Types

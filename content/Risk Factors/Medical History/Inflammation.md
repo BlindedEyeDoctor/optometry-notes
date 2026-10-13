@@ -1,7 +1,7 @@
 ---
 tags:
   - Inflamation
-  - RiskFactors
+  - Risk_Factors
 ---
 # Description
 ---

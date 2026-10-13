@@ -1,6 +1,0 @@
----
-tags:
-  - Tests
-  - SlitLamp
-  - ComprehensiveExamination
----

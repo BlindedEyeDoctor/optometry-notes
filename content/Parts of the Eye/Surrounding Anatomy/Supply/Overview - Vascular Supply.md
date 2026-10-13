@@ -1,0 +1,51 @@
+# Vascular Supply
+---
+#Parts_of_the_Eye= #Surrounding_Anatomy 
+#Vascular_Supply
+Arteries supply bodily tissues with nourishment. 
+
+Size nomenclature is as follows:
+- #Arteries (Traditional Blood Vessels)
+- #Capilaries (Small Blood Vessels)
+| [[Overview - Sinuses|Previous Structure -> Sinuses]] |
+| [[Overview - Surrounding Anatomy|Menu -> Surrounding Anatomy]] |
+| [[Overview - Venous Drainage|Next Structure -> Venous Drainage]]
+# Pathway - Vascular Supply
+---
+ Key:
+ - Pathway names that are **Bolded** follow the direction towards the supply of the eye. 
+ - Pathway **==🟡Highlighted==** are key information that underpin highly relevent pathways. 
+
+1. **Heart**
+2. **Carotid Artery**
+3. **External Carotid Artery**
+	- ==**Facial Artery**==
+	- **Maxillary Artery**
+	- **Superficial temporal Artery**
+	- **Internal Carotid Artery**
+4. **Internal Carotid Artery**
+	- Carotid canal
+	- Cavernous sinus
+	- Cranial cavity
+	- **Ophthalmic Artery**
+5. **Ophthalmic Artery**
+	- Optic Canal
+	- **Inferior Ophthalmic Arteries**
+	- Ophthalmic Artery Main Branch
+		1. *Enters Optic Nerve*
+		2. ==**Central Retinal Artery**==
+			1. ==Supplies the Inner Retina==
+	- Superior Ophthalmic Artery
+		1. Supraorbital notch
+		2. ==**Lacrimal Artery**==
+			1. ==Supplies the Lacrimal Gland, Eyelids and Conjunctiva==
+6. **Inferior Ophthalmic Arteries**
+	- **Long Posterior Ciliary Arteries**
+		-  ==Supplies the Iris, Ciliary Body, and Anterior Uvea==
+	- **Short Posterior Ciliary Arteries**
+		- ==**Circle of Zinn-Haller**==
+			- ==Supplies the Choroid and Optic Nerve Head==
+	- **Infraorbital Artery (Ethmoid Arteries)**
+		- ==Supplies Ethmoid Sinus, Nasal cavity, Medial Orbital Wall==
+		- **Dorsal Nasal Artery**
+			1. ==Anastomoses with Facial Artery==

@@ -4,10 +4,18 @@
 - Water goes with the solution with higher osmotic pressure,  ==Polyuria==. 
 - Water is not reabsorbed into the blood. 
 - Reduce blood volume, ==Hypotension==.
-- [[Loop Diuretics]], [[Thiazides]], [[Potassium-sparing Diuretics]], & [[Carbonic Anhydrase Inhibitors]].
+- [[Loop Diuretics]]
+- [[Thiazides]]
+- [[Potassium-sparing Diuretics]]
+- [[Carbonic Anhydrase Inhibitors]]
 #Management = #Pharmacological_Mangement 
 #Systemic_Drugs = #Anti-Hypertensives 
 #Drug_Catagory = #Diuretics 
+# Navigation
+---
+[[index|Main Menu]] - Index
+[[Overview - Anti-Hypertensives|Menu]] - Anti-Hypertensives
+[[Overview - RAAS Inhibitors|Next Class]] - RAAS Inhibitors
 # Diuretics Effects
 ---
 ==Hypotension==

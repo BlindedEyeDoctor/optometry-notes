@@ -1,4 +1,4 @@
-# Description
+# Cellulose Derivatives
 ---
 - Viscosity enhancer
 	- Increased Tear retention time
@@ -13,7 +13,7 @@
 #Pharmacological_Mangement #Ocular_Drugs #OcularLubricants #TearFilm #DryEyeDisease #AqueousComponents 
 # Derivatives
 ---
-- Carmellose
-- Hypromellose
+- [[Carmellose]]
+- [[Hypromellose]]
 
 

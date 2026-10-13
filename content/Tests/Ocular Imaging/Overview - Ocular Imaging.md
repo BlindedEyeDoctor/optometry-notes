@@ -1,9 +1,10 @@
 
-# Description
+# Ocular Imaging
 ---
 
-#Tests #Imaging #ComprehensiveExamination 
-# Types of Tests
+#Tests= #Comprehensive_Examination 
+ #Ocular_Imaging 
+# Content - Types of Ocular Imaging
 ---
 - [[Color Fundus Photograph]]
 - [[Ultra Wide-field Fundus Photograph]]
