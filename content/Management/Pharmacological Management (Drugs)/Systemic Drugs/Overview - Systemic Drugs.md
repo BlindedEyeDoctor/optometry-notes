@@ -18,10 +18,13 @@ A list of drugs your patient may already be on when they present to clinic. Pati
 - Anxiety
 	- [[Overview - Anxiolytic (Anxiety)]]
 - Respiratory Diseases
-	- [[Asthma and COPD Medication]]
+	- [[COPD Medication]]
+	- [[Asthma Medication]]
 - ADHD
 	- [[Overview - ADHD Medication]]
 - Rheumatoid Arthritis
 	- [[Overview - Rheumatoid Arthritic Drugs]]
 - Thyroid Medication
 	- [[Overview - Thyroid Medications]]
+- Bacterial Infection
+	- [[Overview - Anti-Bacterial]]

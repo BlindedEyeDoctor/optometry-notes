@@ -34,5 +34,7 @@ Affects the Retina
 Affects the Optic Nerve
 - [[Overview - Galucoma]]
 - [[Overview - Optic Neuropathies]]
-- 
+
+Impacts image processing 
+[[Overview - Neural Diseases]]
 

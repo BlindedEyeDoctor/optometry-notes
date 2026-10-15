@@ -1,7 +1,9 @@
 # Presenting Symptoms
 ---
-#Clinical_Presentation = #Presenting_Symptoms 
 A compilation of various symptoms patients may find on their own and present to clinic with. 
+#Clinical_Presentation = #Presenting_Symptoms 
+# Navigation
+---
 | [[index|Main Menu]] |
 | [[Overview - Clinical Presentation|Go Back? -> Clinical Presentation]] |
 | [[Overview - Pain|Next Symptom? -> Pain]] |
@@ -13,8 +15,8 @@ Sensation
 - Discomfort Types
 	- Sticky 
 Appearance
-- Eye movement
-- Discharge
+- [[Eye Movement]]
+- Discharge -> Crusty or Goey/Gummy
 Vision Changes
 - Vision Loss
 - Vision Blur

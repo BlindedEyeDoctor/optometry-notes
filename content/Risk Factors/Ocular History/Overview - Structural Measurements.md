@@ -7,6 +7,6 @@
 # List
 ---
 [[Axial Length]] 
-[[Corneal Thickness]]
+[[Center Corneal Thickness]]
 [[Cupping Size]]
 [[Anterior Angle]]

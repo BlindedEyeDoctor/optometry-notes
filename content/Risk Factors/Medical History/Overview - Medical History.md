@@ -11,3 +11,6 @@ I've organized them into two main categories:
 
 [[Overview - Autoimmune Conditions|A patient's "Autoimmune Conditions"]]
 ![[Overview - Autoimmune Conditions]]
+
+[[Allergies]]
+[[Inflammation]]

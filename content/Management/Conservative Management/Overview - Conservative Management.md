@@ -47,6 +47,6 @@ Some health conditions can be managed/treated without the use of drugs. Doctors 
 - Blood Pressure Management
 - Diet and Exercise
 	- Vitamins and Minerals
-	- [[Vitamins and Minerals]]
+	- [[Overview - Vitamins and Minerals]]
 
 [[Observation]]

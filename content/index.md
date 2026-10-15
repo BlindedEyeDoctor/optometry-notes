@@ -28,8 +28,9 @@ This project was made possible using:
 ## Version
 1.0 (03/09/2026) - Initial Git Push, Published Website
 1.1 (05/09/2026) - Updated note titles to better format the website
-1.2 (06/09/2026) - Made the website more user friendly. Added hyperlink navigator, and continued to flesh out information in [Parts of the Eye](obsidian://open?vault=Diseases%20and%20Associated%20Symptoms&file=Optometry%20Notes%2FParts%20of%20the%20Eye%2FOverview%20-%20Parts%20of%20the%20Eye).
+1.2 (06/09/2026) - Made the website more user friendly. Added hyperlink navigator, and continued to flesh out information in Parts of the eye
 1.3 (14/09/2026) - Moved Drugs under new Management Option. Revised main. Added more information. 
 1.4 (11/10/2026) - Continued working on filling in more information
+1.5 (16/10/2026) - Continued working on filling in more information, added cross-devise info sharing via "Obsidian Vault Sync"
 ## Known Issues
-None Found
+None reported

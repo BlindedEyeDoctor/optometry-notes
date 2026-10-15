@@ -24,3 +24,4 @@ Pain with no rhyme or reason to it.
 "Anticonvulsants"
 - [[Gabapentin]]
 - [[Pregabalin]]
+- [[Carbamazepine]]
