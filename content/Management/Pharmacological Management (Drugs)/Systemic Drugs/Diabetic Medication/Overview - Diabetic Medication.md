@@ -2,17 +2,31 @@
 --- 
 Patients who have [Hyperglycemia] are prescribed medication to reduce blood glucose levels. 
 
-#Management = #Pharmacological_Mangement #Systemic_Drugs = #Diabetic_Medications 
+#Management = #Pharmacological_Mangement 
+#Systemic_Drugs = #Diabetic_Medications 
 # Key Notes
 ---
-![[Pathophys - Hyperglycemia]]
+[[Pathophys - Hyperglycemia]]
+- [[Overview - Diabetes]]
+- Two main types, with one sub-cause. 
+- Type 1 Diabetes
+	- Autoimmune - Immune system targets Pancreatic Beta-Cells. 
+- Type 2 Diabetes
+	- "Insulin does not function well in the body."
+	- Insulin Resistance
+	- Insulin Defficiency
+- Gestational Diabetes
+	- Hormonal changes in pregnancy drives insulin resistance. 
+	- Goes away after delivery. 
 
 # Popular Diabetic Medications
 ---
-
+- Insulin
+- Metformin 
 # Related Ocular Context
 ---
-- [Diabetic Retinopathy](obsidian://open?vault=Diseases%20and%20Associated%20Symptoms&file=Optometry%20Notes%2FOcular%20Diseases%2FRetinal%20Diseases%2FOverview%20-%20Diabetic%20Retinopathy)
+- [[Overview - Diabetic Retinopathy|Diabetic Retinopathy]]
+- []
 # Drug Classifications
 ---
 [[Insulin]]

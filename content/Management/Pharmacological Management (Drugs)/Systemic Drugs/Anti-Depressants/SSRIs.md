@@ -15,12 +15,12 @@ Selective Serotonin Reuptake Inhibitors (SSRIs)
 	- Do not stop taking suddenly (taper dose over at least 4 weeks)
 # Drug Name
 ---
-	- Citalopram
-	- ==Escitalopram==
-	- ==Fluoxetine==
+	- [[Citalopram]]
+	- **[[Escitalopram]]**
+	- [[Fluoxetine]]
 		- Long half-life (4 – 6 days) compared to the other SSRIs (~1 day). It also has active metabolites.
-	- Fluvoxamine
-	- Paroxetine
-	- ==Setraline==
+	- [[Fluvoxamine]]
+	- [[Paroxetine]]
+	- **[[Setraline]]**
 - Adverse Effects
 	- 

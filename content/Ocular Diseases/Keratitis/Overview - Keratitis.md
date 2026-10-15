@@ -1,7 +1,7 @@
 ---
 tags:
   - Cornea
-  - Ocular_Disease
+  - Ocular_Diseases
   - Keratitis
 ---
 

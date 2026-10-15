@@ -16,7 +16,7 @@ A list of the clinical signs to look for when at the retina.
 
 # Type
 ---
-![[Overview - Retinal Vascular Signs]]
+![[Overview - Retinal Vascular Signs#Retinal Vascular Signs]]
 ### Retinal Degenerations / Atrophy
 - [[Cotton Wool Spot]]
 	- Looks like Exudates
@@ -61,12 +61,14 @@ A list of the clinical signs to look for when at the retina.
 - [[Embolism|Emboli]]
 - [[Congenital Hypertrophy of the Retinal Pigment Epithelium|RPE Freckle]]
 	- Deposition of melanin pigment at birth
-	- Under Chroid 
+	- Under Choroid 
 - [[White Without Pressure]]
 	- Peripheral Retina
 	- A bit of tension in the retina leads to it appearing lighter
 - [[White With Pressure]]
-	- Putting a bit of pressure on the eyeball causes it to deform and streach, causing tension in the retina causing it to appear whiter
+	- Putting a bit of pressure on the eyeball causes it to deform and strech, causing tension in the retina causing it to appear whiter
+- [[Snow banking]]
+- [[Snow balls]]
 
 ### Retinal Odema
 - [[Diabetic Papillopathy]]

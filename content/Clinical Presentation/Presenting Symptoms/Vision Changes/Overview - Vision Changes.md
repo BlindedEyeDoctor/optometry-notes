@@ -4,7 +4,8 @@ tags:
   - VisionChanges
 ---
 
-[[Blurred Vision]]
+[[Sustained Blurred Vision]]
+[[Transient Blurred Vision]]
 [[Diplopia]]
 [[Central Vision Loss]]
 [[Peripheral Vision Loss]]
@@ -14,6 +15,4 @@ tags:
 [[Sudden Vision Loss]]
 [[Transient Vision Loss]]
 [[Glare]]
-[[New Floaters]]
 [[Overview - Flashes]]
-[[Eye Movement]]

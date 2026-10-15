@@ -1,16 +1,16 @@
-# Description
+# Ocular Lubricants
 ---
 Supplements or stabilises one or more layers of the tear film (aqueous, lipid, mucin) to reduce symptoms of dry eye and improve ocular surface health.
 
-#Management = #Pharmacological_Mangement #Ocular_Drugs = #OcularLubricants  
+#Management = #Pharmacological_Mangement #Ocular_Drugs = #Ocular_Lubricants  
 # Background
 ---
 Used in the management of:
-- Dry Eye Disease (aqueous‑deficient or evaporative)
-- Contact lens discomfort
-- Post‑operative dryness
-- Environmental dryness
-- Medication‑induced dryness (antihistamines, SSRIs, beta‑blockers)
+- [[Overview - Dry Eye Disease|Dry Eye Disease]]
+- [[Contact Lens Discomfort]]
+- [[Grittiness or Dryness|Post‑operative dryness]]
+- [[Grittiness or Dryness|Environmental dryness]]
+- [[Grittiness or Dryness|Medication‑induced dryness (antihistamines, SSRIs, beta‑blockers)]]
 # Mechanism of Action
 ---
 - **Aqueous supplements** — increase tear volume and improve hydration
@@ -18,11 +18,25 @@ Used in the management of:
 - **Mucin‑mimetic agents** — improve wettability and tear film spreading
 - **Viscosity enhancers** — prolong retention time on the ocular surface
 - **Osmoprotectants** — protect epithelial cells from hyperosmolar stress
+# Related Ocular Context
+---
+- [[Overview - Dry Eye Disease|Dry Eye Disease (aqueous‑deficient, evaporative, mixed]]
+- [[Meibomian Gland Dysfunction]]
+- [[Blepharitis]]
+- [[Contact Lens Wear]]
+- [[Sjögren’s Disease]]
+# Related Symptoms
+---
+- [[Grittiness or Dryness]]
+- [[Burning]]
+- [[Transient Vision Loss|Fuctuating vision]]
+- [[Transient Blurred Vision]]
+- [[Contact Lens Discomfort]]
 # Components
 ---
-![[Overview - Aqueous Components]]
+![[Overview - Aqueous Components#Aqueous Components]]
 
-![[Overview - Lipid Components]]
+![[Overview - Lipid Components#Lipid Components]]
 
 [[UNKNOWN COMPONENTS]]:
 - Perfluorohexyl octane:
@@ -36,17 +50,3 @@ Used in the management of:
 - Cetrimide
 - Oxychloro complex (aka Purite ®)
 - Sodium perborate
-# Related Ocular Context
----
-- [Dry Eye Disease (aqueous‑deficient, evaporative, mixed)](obsidian://open?vault=Diseases%20and%20Associated%20Symptoms&file=Vault%2FDiseases%2FDry%20Eye%20Disease%2FDry%20Eye%20Disease)
-- [Meibomian Gland Dysfunction](obsidian://open?vault=Diseases%20and%20Associated%20Symptoms&file=Meibomian%20Gland%20Dysfunction)
-- [Blepharitis](obsidian://open?vault=Diseases%20and%20Associated%20Symptoms&file=Blepharitis)
-- Contact lens discomfort
-- [Sjögren’s disease](obsidian://open?vault=Diseases%20and%20Associated%20Symptoms&file=Vault%2FRisk%20Factors%2FSj%C3%B6gren%E2%80%99s%20Disease)
-# Related Symptoms
----
-- [Dryness/Grittiness](obsidian://open?vault=Diseases%20and%20Associated%20Symptoms&file=Vault%2FPresenting%20Symptoms%2FDiscomfort%20Types%2FGrittiness%20or%20Dryness)
-- [Burning](obsidian://open?vault=Diseases%20and%20Associated%20Symptoms&file=Vault%2FPresenting%20Symptoms%2FDiscomfort%20Types%2FGrittiness%20or%20Dryness)
-- Fluctuating vision
-- [Transient blur](obsidian://open?vault=Diseases%20and%20Associated%20Symptoms&file=Vault%2FPresenting%20Symptoms%2FVision%20Changes%2FTransient%20Vision%20Loss)
-- Contact lens intolerance

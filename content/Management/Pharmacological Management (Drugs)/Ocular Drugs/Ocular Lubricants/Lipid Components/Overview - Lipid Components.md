@@ -2,10 +2,10 @@
 tags:
   - Ocular_Drugs
   - Pharmacological_Mangement
-  - OcularLubricants
+  - Ocular_Lubricants
   - TearFilm
 ---
-# Index
+# Lipid Components
 ---
 - [[Paraffin]]
 - [[Lanolin|Wool Fat]]

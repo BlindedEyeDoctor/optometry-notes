@@ -1,7 +1,7 @@
 ---
 tags:
   - RefractiveDiseases
-  - Ocular_Disease
+  - Ocular_Diseases
 ---
 
 [[Myopia]]

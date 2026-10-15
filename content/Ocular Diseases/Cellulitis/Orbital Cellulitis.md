@@ -1,6 +1,6 @@
 ---
 tags:
   - Cellulitis
-  - Ocular_Disease
+  - Ocular_Diseases
   - Orbit
 ---

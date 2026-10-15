@@ -6,6 +6,6 @@
 	- Thickens when you blink
 - High viscosity
 	- Increased Tear retention time
-#Pharmacological_Mangement #Ocular_Drugs #OcularLubricants #TearFilm #DryEyeDisease #AqueousComponents 
+#Pharmacological_Mangement #Ocular_Drugs #Ocular_Lubricants #TearFilm #Dry_Eye_Disease #Aqueous_Components 
 # Derivatives
 ---

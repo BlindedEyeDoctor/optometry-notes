@@ -14,6 +14,7 @@ Angiogenesis
 # Layer-Specific Circumstances 
 ---
 [[Retinal -  Neoavsc]]
+- Visible on Fundoscopy and Fundus Imaging  
 
 [[Iris - Neovasc]]
 

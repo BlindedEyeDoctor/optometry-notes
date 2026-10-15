@@ -15,7 +15,7 @@ Patients who have [[Rheumatoid Arthritis]] are prescribed Disease-Modifying Anti
 		- IL-1 Receptor Agonist
 		- IL-6 Receptor Agonist
 - ==🟡Targeted Synthetic DMARDs==: [[tsDMARD]]
-		- Targeting other processes
+	- Targeting other processes
 - Conventional DMARD first -> then bDMARD or csDMARD
 - Symptom Management
 	- [[NSAIDs]]

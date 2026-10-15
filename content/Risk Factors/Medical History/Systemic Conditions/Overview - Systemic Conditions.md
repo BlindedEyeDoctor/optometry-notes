@@ -3,7 +3,7 @@
 #Risk_Factors = #Medical_History 
 #Systemic_Condition 
 
-[[Diabetes]]
+[[Overview - Diabetes]]
 [[Hypertension]]
 [[Dislipidemia]]
 [[Atopy/Athsma/COPD/Eczema]]

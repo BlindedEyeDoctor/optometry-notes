@@ -1,12 +1,19 @@
 
-# Description
+# Dry Eye Disease
 ---
 ....
-# Tags
----
-#Ocular_Disease #Ocular_Disease #TearFilm #Cornea #Conjuntiva 
+#TearFilm #Cornea #Conjuntiva 
+
+#Ocular_Diseases= #Dry_Eye_Disease  
 # Types
 ---
 - [[Aqueous Deficient Dry Eye]]
 - [[Evaporative Deficient Dry Eye]]
 - [[Contact Lens] related Dry Eye]
+
+# Management
+---
+- [[Overview - Ocular Lubricants]]
+- [[Ocular Anti-Inflammatories]]
+- [[Cyclosporin]]
+- 

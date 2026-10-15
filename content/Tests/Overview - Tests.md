@@ -10,7 +10,7 @@ A comprehensive list of the types of tests an optometrist can perform. It includ
 Tests are categorized into three types based on order performed in an evaluation including ease of performance, breath and depth of information gained. 
 - Note: the order of tests should mainly be followed, but does not need to be strictly followed if you are confident that a specific test(s) may provide substantially greater data/benefit. 
 
-![[Overview - Preliminary Assessments#Content - Preliminary Tests]]
+![[Overview - Preliminary Assessments#Content - Preliminary Assessments]]
 
 
 ![[Overview - Comprehensive Examination#Content - Types of Comprehensive Examinations]]

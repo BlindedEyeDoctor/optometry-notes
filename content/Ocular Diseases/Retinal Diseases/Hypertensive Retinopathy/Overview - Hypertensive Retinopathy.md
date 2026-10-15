@@ -1,7 +1,7 @@
 # Hypertensive Retinopathy
 ---
 ...
-#Ocular_Disease #RetinalDiseases #HypertensiveRetinopathy 
+#Ocular_Diseases #RetinalDiseases #HypertensiveRetinopathy 
 #Hypertention #Blood #Retina 
 
 # Stages

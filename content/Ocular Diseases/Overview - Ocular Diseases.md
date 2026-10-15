@@ -1,6 +1,6 @@
 # Ocular Diseases
 ---
-#Ocular_Disease 
+#Ocular_Diseases 
 
 
 | [[index|Main Menu]] |
@@ -33,4 +33,6 @@ Affects the Retina
 - [[Overview - Retinal Diseases]]
 Affects the Optic Nerve
 - [[Overview - Galucoma]]
+- [[Overview - Optic Neuropathies]]
+- 
 

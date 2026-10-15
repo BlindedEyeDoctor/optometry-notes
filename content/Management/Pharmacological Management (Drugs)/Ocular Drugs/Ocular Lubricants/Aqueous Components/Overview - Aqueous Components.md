@@ -1,45 +1,41 @@
 # Aqueous Components
 ---
-
-#Management #Pharmacological_Mangement #Ocular_Drugs #OcularLubricants #TearFilm #DryEyeDisease #AqueousComponents 
-
+Aqueous components of ocular lubricants:
+- Supplements - 
+- Support - assists
+The aqueous component of tears
+#Management = #Pharmacological_Mangement 
+#Ocular_Drugs= #Ocular_Lubricants
+#Aqueous_Components 
+# Key Notes
+---
 [[Cellulose Derivatives]]
-- Viscosity Enhancer: Yes (moderate viscosity)
-- Muco-adhesive: No (weak)
-- Bio-adhesive: No
-- Lubricant: Yes (surface slip)
-- Pseudoplasticity: Yes (thins on blink)
-- Tear Film Stabilization: Yes
-- Water Retention: No
+- #Viscosity_Enhancer - ==Mildly Viscosity==
+- #Lubrication
+- #Pseudoplasticity - Thins on blink
+- #Tear_Film_PH_Stabilization - Minorly Stabilizes PH
 [[Polyvinyl Alcohol]]
-- Viscosity Enhancer: No (low viscosity)
-- Muco-adhesive: Yes (mucin‑mimetic)
-- Bio-adhesive: No
-- Lubricant: Yes (tear stabiliser)
-- Pseudoplasticity: No
-- Tear Film Stabilization: Yes (mucin‑mimetic)
-- Water Retention: No
+- #Mucin_Mimetic - ==Mimics Mucin to bind to cells==
+- #Lubrication 
+- #Tear_Film_PH_Stabilization - Mildly Stabilizes PH
 [[Carbomers]]
-- Viscosity Enhancer: Yes (high viscosity)
-- Muco-adhesive: No
-- Bio-adhesive: No
-- Lubricant: Yes (gel lubrication)
-- Pseudoplasticity: Yes (strong)
-- Tear Film Stabilization: Yes
-- Water Retention: No
+- #Viscosity_Enhancer - High Viscosity
+- #Lubrication - Gel Lubricating
+- #Pseudoplasticity - ==Strong==
+- #Tear_Film_PH_Stabilization - Mildly Stabilizes PH
 [[Sodium Hyaluronate]]
-- Viscosity Enhancer: Yes (moderate)
-- Muco-adhesive: Yes (strong)
-- Bio-adhesive: Yes (binds epithelium)
-- Lubricant: Yes (hydration + slip)
-- Pseudoplasticity: Yes (viscoelastic)
-- Tear Film Stabilization: Yes
-- Water Retention: Yes (very strong)
+- #Viscosity_Enhancer - Moderate Viscosity
+- #Muco_adhesive - Adheres to the Mucous Membrane
+- #Bio_Adhesive - ==Binds to epithelial cells==
+- #Hydrating
+- #Lubrication 
+- #Tear_Film_PH_Stabilization - Mildly Stabilizes PH
+- #Water_Retension - Chemically binds to water and holds it
+- ==Is found naturally in your body==
 [[Hydroxypropyl Guar]]
-- Viscosity Enhancer: Yes (moderate)
-- Muco-adhesive: Yes (strong)
-- Bio-adhesive: Yes (gel matrix)
-- Lubricant: Yes (gel lubrication)
-- Pseudoplasticity: Yes (viscoelastic)
-- Tear Film Stabilization: Yes
-- Water Retention: Yes (moderate)
+- #Viscosity_Enhancer - Moderate Viscosity
+- #Muco_adhesive - Strongly adheres to the Mucous Membrane 
+- #Bio_Adhesive - Gel Matrix to adhere to epithelial cells
+- #Pseudoplasticity 
+- #Tear_Film_PH_Stabilization - Mildly Stabilizes PH
+- #Water_Retension - ==Chemically binds to water and holds it==

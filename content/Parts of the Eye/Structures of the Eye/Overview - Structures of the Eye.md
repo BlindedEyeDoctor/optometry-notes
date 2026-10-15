@@ -15,10 +15,11 @@ Listed from most Anterior to Posterior, and categorized into anterior and poster
 - [[Conjunctiva]]
 - [[Cornea]]
 - [[Sclera]]
-- [[Iris]]
+- [[Uvea|Iris]]
 - [[Lens]]
 - [[Aqueous Humor]]
 ## Posterior Structures of the Eye
+- [[Uvea]]
 - [[Vitreous Humor]]
 - [[Retina]]
 - [[Choroid]]

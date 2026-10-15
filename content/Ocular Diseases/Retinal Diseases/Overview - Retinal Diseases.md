@@ -1,13 +1,13 @@
 ---
 tags:
   - Retina
-  - Ocular_Disease
+  - Ocular_Diseases
   - RetinalDiseases
 ---
 # Retinal Diseases
 ---
 Here lies all the retinal diseases. 
-#Ocular_Disease #RetinalDiseases #Retina 
+#Ocular_Diseases #RetinalDiseases #Retina 
 
 # Your retina under different systemic diseases
 ---

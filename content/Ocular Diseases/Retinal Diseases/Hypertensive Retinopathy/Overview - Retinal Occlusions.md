@@ -1,7 +1,7 @@
 # Retinal Occlusions
 ---
 An exclusion caused by an exudate 
-#Ocular_Disease #RetinalDiseases #Retina #Blood 
+#Ocular_Diseases #RetinalDiseases #Retina #Blood 
 # Types
 ---
 ### Arterial

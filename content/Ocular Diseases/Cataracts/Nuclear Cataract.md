@@ -1,7 +1,7 @@
 ---
 tags:
   - Cataract
-  - Ocular_Disease
+  - Ocular_Diseases
   - Lens
 ---
 # Description

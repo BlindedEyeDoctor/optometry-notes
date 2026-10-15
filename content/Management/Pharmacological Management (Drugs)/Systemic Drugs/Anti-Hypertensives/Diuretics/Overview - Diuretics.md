@@ -14,7 +14,8 @@
 # Navigation
 ---
 [[index|Main Menu]] - Index
-[[Overview - Anti-Hypertensives|Menu]] - Anti-Hypertensives
+[[Overview - Pharmacological Management|Menu]] - Pharmacological Management
+[[Overview - Anti-Hypertensives|Drug Class]] - Anti-Hypertensives
 [[Overview - RAAS Inhibitors|Next Class]] - RAAS Inhibitors
 # Diuretics Effects
 ---

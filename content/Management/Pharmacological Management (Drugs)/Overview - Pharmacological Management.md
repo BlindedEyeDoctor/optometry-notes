@@ -2,7 +2,6 @@
 --- 
 Drugs are substances that causes a change in an organism's physiology. In healthcare we use drugs to prevent or to treat disease. 
 #Management #Pharmacological_Mangement
-
 # Navigation
 ---
 <<< [[Overview - Management|Go Back]] | [[Overview - Management|Main Menu]] | [[Overview - Anti-Hypertensives|Next]]>>>
@@ -10,7 +9,7 @@ Drugs are substances that causes a change in an organism's physiology. In health
 ---
 As [[Overview - Pharmacological Management|pharmacological management]] will primarily be focused on drugs, notation will be organized as follows:
 1. Pages will first be broken down into #Ocular_Drugs or #Systemic_Drugs based on the [[Overview - Pharmacological Management#Drug Dosing Methods|method of administration]].
-2. Pages will then be broken down into the specific #Systemic_Condition or otherwise linked to a #Ocular_Disease. 
+2. Pages will then be broken down into the specific #Systemic_Condition or otherwise linked to a #Ocular_Diseases. 
  3. Pages will furthermore be assigned a #Drug_Catagory based on the drug's mechanism of action. Note: one or more drug category may be assigned to treat a disease. 
 4.  Following that, it will be categorized into specific #Drug_Class based on specific receptor binding. 
 5.  And then finally into #Drug to show the actual constituents/active ingredients, receptor specificity etc. 

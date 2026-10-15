@@ -4,7 +4,7 @@
 Short, easy to perform, but invaluable tests to perform. 
 - Usually performed first
 - Provides substantial information
-# Content - Preliminary Tests
+# Content - Preliminary Assessments
 ---
 - [[History Taking]]
 - [[Visual Acuity]]

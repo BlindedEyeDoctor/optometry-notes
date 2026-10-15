@@ -2,7 +2,7 @@
 tags:
   - Presenting_Symptoms
   - Conjuntiva
-  - Ocular_Disease
+  - Ocular_Diseases
   - ConjunctivalDiseases
 ---
 # Relevent
